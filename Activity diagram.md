@@ -4,16 +4,16 @@
 3. [Информация отключении пользователя и удалении его аккаунта](#3)
 4. [Использование команд личного сообщения и сообщений в канал](#4)
 
-### 1. Добавление аудиофайла<a name="1"></a>
+### 1. Подключение пользователя к серверу<a name="1"></a>
 
-![Добавление аудиофайла](https://github.com/stptpv/Technical-task/blob/main/Add.png)
+![Подключение](https://github.com/Jambalbe/Technical-task/blob/main/Connect.jpg)
 
-### 2. Начало воспроизведения<a name="2"></a>
+### 2. Принятые и отправленные сообщения в канале<a name="2"></a>
 
-![Начало воспроизведения](https://github.com/stptpv/Technical-task/blob/main/Play.png)
+![Сообщение в канале](https://github.com/Jambalbe/Technical-task/blob/main/Send.jpg)
   
-### 3. Воспроизведение следующей аудиозаписи<a name="3"></a>
-![Воспроизведение следующей аудиозаписи](https://github.com/stptpv/Technical-task/blob/main/Next.png)
+### 3. Информация отключении пользователя и удалении его аккаунта<a name="3"></a>
+![Удаление](https://github.com/Jambalbe/Technical-task/blob/main/Remove.jpg)
 
-### 4. Изменение громкости<a name="4"></a>
-![Изменение громкости](https://github.com/stptpv/Technical-task/blob/main/Volume.png)
+### 4. Использование команд личного сообщения и сообщений в канал<a name="4"></a>
+![Личное сообщенни](https://github.com/Jambalbe/Technical-task/blob/main/privmsg.jpg)
